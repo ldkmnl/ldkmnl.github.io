@@ -1,0 +1,19 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: '近期工作'
+    url: '#works' #在当前页面跳转至id为works的地方
+    weight: 1
+  - name: '增材制造'
+    url: '#3dprint'
+    weight: 2
+  - name: '摄影作品'
+    url: '#photos'
+    weight: 3 
+
+  - name: '关于我'
+    url: 'about' #打开一个新页面，需要在content目录下创建一个about.md文件
+    weight: 4

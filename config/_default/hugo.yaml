@@ -6,7 +6,7 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: '硕士科研记录'
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://ldkmnl.github.io/'
 
 ############################
 ## LANGUAGE

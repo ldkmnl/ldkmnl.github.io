@@ -1,0 +1,18 @@
+schema: hugoblox/author/v1
+slug: dzz
+is_owner: false
+name:
+  display: '邓珍珍'
+  given: '珍珍'
+  family: '邓'
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: she/her
+postnominals:
+  - PhD
+  - MIEEE
+status:
+  icon: "☕️"
+role: '硕士研究生'
+bio: |
+  邓珍珍是笨蛋

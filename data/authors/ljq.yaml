@@ -1,10 +1,10 @@
 schema: hugoblox/author/v1
-slug: me
+slug: ljq
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: '李佳祺'
+  given: '佳祺'
+  family: '李'
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
   pronouns: he/him
@@ -13,37 +13,26 @@ postnominals:
   - MIEEE
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: '硕士研究生'
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  李佳祺是一个热爱科研的硕士研究生，专注于增材制造和机械工程领域的研究。
+  他在燕山大学机械工程学院攻读硕士学位，并积极参与各类科研项目和学术交流活动。
+  除了学术研究，他还热衷于乒乓球、游泳和电子游戏，喜欢在学习之余保持身心健康。
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: '燕山大学机械工程学院'
+    url: 'https://www.ysu.edu.cn/'
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:2947524090@qq.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - '乒乓球'
+  - '增材制造'
+  - '游泳'
+  - '打游戏'
 
 education:
   - degree: PhD Computer Science

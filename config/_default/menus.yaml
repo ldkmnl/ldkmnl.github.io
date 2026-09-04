@@ -12,8 +12,4 @@ main:
     weight: 2
   - name: '摄影作品'
     url: '#photos'
-    weight: 3 
-
-  - name: '关于我'
-    url: 'about' #打开一个新页面，需要在content目录下创建一个about.md文件
-    weight: 4
+    weight: 3

@@ -2,6 +2,8 @@
 title: '美腻的天空'
 date: 2026-09-17
 authors: ['ljq']
+image:
+    preview_only: ture
 ---
 ![古桥](古桥.jpg)
 我真的超爱这张，我的鼠标垫，以后我的博客背景都是这个了哈哈哈哈

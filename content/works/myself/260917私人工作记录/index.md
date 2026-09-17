@@ -2,6 +2,8 @@
 title: '260917私人工作记录'
 date: 2026-09-17
 authors: ['ljq']
+image:
+    preview_only: true
 ---
 
 ### 干了什么

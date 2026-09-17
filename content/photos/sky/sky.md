@@ -5,4 +5,4 @@ image: "123.png"
 authors: ['ljq']
 ---
 加个文字标识
-![yeyeye](./sky/123.png)
+![yeyeye](./sky/sky/123.png)

@@ -13,3 +13,6 @@ main:
   - name: '摄影作品'
     url: '#photos'
     weight: 3
+  - name: '演示文档'
+    url: 'demo'
+    weight: 4

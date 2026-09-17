@@ -2,7 +2,6 @@
 title: 'voron2.4记录'
 date: 2026-09-05
 authors: ['ljq']
-image: 'cover.jpg'
 ---
 ### bug记录
 喷头加热不知道为什么时好时坏，已排除热敏电阻的故障，可能的故障有：

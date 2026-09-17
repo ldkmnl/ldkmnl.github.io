@@ -2,7 +2,6 @@
 title: '260916私人工作记录'
 date: 2026-09-16
 authors: ['ljq']
-image: 'cover.jpg'
 ---
 今天是一个内网里程碑，将zerotier更换为easytier
 ### 为什么要换

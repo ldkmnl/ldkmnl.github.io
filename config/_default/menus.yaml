@@ -11,5 +11,5 @@ main:
     url: '#3dprint'
     weight: 2
   - name: '摄影作品'
-    url: '#photos'
+    url: 'photos'
     weight: 3

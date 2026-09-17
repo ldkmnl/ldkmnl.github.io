@@ -7,7 +7,7 @@ type: landing
 
 sections:
   - block: collection
-    id: works
+    id: works #导航栏url跳转标签
     content:
       title: '近期工作'
       subtitle: ''

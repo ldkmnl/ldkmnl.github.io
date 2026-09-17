@@ -1,6 +1,16 @@
 ---
 title: "摄影作品"
-type: gallery    # 如果你在 layouts 里定义了 gallery，或者主题支持
-layout: masonry  # 尝试瀑布流布局
-show_authors: true
+type: landing
+show_authors: false
+
+sections:
+  - block: collection
+    content:
+      title: ''
+      filters:
+        folders:
+          - photos
+    design:
+      view: card # 卡片视图，展示照片封面
+      columns: '3' # 一行显示3张照片
 ---

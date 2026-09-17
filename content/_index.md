@@ -59,4 +59,5 @@ sections:
         exclude_featured: false
     design:
       view: card
+      columns: '3'
 ---

@@ -1,7 +1,6 @@
 ---
 title: "摄影作品"
 type: landing
-show_authors: false
 
 sections:
   - block: collection

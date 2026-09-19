@@ -12,7 +12,6 @@ sections:
       filters:
         folders:
           - demo
-          - 3dprint
         exclude_featured: false
     design:
       view: card

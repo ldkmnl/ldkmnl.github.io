@@ -11,7 +11,8 @@ sections:
       text: ''
       filters:
         folders:
-          - /content/demo/picturedemo
+          - demo
+          - 3dprint
         exclude_featured: false
     design:
       view: card

@@ -11,7 +11,7 @@ sections:
       text: ''
       filters:
         folders:
-          - demo/picturedemo
+          - demo
         exclude_featured: false
     design:
       view: card

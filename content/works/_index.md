@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: '近期工作'
+      title: '私人工作'
       text: ''
       filters:
         folders:
@@ -15,4 +15,21 @@ sections:
         exclude_featured: false
     design:
       view: card
+
+  - block: collection
+    content:
+      title: '实验室工作'
+      text: ''
+      filters:
+        folders:
+          - works/research
+        exclude_featured: false
+    design:
+      view: card
 ---
+
+<!-- ---
+title: "近期工作"
+type: post
+show_authors: true
+--- -->

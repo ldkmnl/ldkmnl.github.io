@@ -4,6 +4,7 @@ date: 2026-09-17
 authors: ['ljq']
 image:
     preview_only: ture
+weight: 2
 ---
 这篇文章旨在介绍该网站的部分文件作用以及文章文件夹的结构，具体文件参数如何写问ai
 

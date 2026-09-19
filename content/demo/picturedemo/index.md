@@ -4,6 +4,7 @@ date: 2026-09-17
 authors: ['ljq']
 image:
     preview_only: ture
+weight: 3
 ---
 
 首先需要将所有要用到的图片与文章放到同一个文件夹，图片格式为jpg或png

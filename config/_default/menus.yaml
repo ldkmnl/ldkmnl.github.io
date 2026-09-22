@@ -8,11 +8,11 @@ main:
     url: '#works' #在当前页面跳转至id为works的地方
     weight: 1
   - name: '实验室工作记录'
-    parent: '近期工作'
+    parent: '工作记录'
     url: 'works/research' #在当前页面跳转至id为works的地方
     weight: 1
   - name: '私人工作记录'
-    parent: '近期工作'
+    parent: '工作记录'
     url: 'works/myself' #在当前页面跳转至id为works的地方
     weight: 2
 

@@ -4,8 +4,8 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: '近期工作'
-    url: 'works' #在当前页面跳转至id为works的地方
+  - name: '工作记录'
+    url: '#works' #在当前页面跳转至id为works的地方
     weight: 1
   - name: '实验室工作记录'
     parent: '近期工作'

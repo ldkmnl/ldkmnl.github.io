@@ -13,7 +13,7 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 10
+      count: 4
       # Filter on criteria
       filters:
         folders:
@@ -41,6 +41,7 @@ sections:
     content:
       title: '增材制造'
       text: ''
+      count: 4
       filters:
         folders:
           - 3dprint
@@ -53,6 +54,7 @@ sections:
     content:
       title: '摄影作品'
       text: ''
+      count: 4
       filters:
         folders:
           - photos

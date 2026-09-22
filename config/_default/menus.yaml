@@ -5,14 +5,28 @@
 
 main:
   - name: '近期工作'
-    url: '#works' #在当前页面跳转至id为works的地方
+    url: 'works' #在当前页面跳转至id为works的地方
     weight: 1
-  - name: '增材制造'
-    url: '#3dprint'
+  - name: '实验室工作记录'
+    parent: '近期工作'
+    url: 'research' #在当前页面跳转至id为works的地方
+    weight: 1
+  - name: '私人工作记录'
+    parent: '近期工作'
+    url: 'myself' #在当前页面跳转至id为works的地方
     weight: 2
+
+
+  - name: '增材制造'
+    url: '3dprint'
+    weight: 2
+
+
   - name: '摄影作品'
-    url: '#photos'
+    url: 'photos'
     weight: 3
+
+
   - name: '演示文档'
     url: 'demo'
     weight: 4

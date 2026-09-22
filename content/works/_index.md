@@ -2,7 +2,7 @@
 title: '近期工作总览'
 summary: ''
 date: 2026-09-01
-type: post
+type: landing
 
 # sections:
 #   - block: collection

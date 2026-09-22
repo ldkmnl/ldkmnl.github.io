@@ -1,5 +1,5 @@
 ---
-title: '近期工作'
+title: '近期工作总览'
 summary: ''
 date: 2026-09-01
 type: landing
@@ -7,22 +7,11 @@ type: landing
 sections:
   - block: collection
     content:
-      title: '私人工作'
+      title: ''
       text: ''
       filters:
         folders:
-          - /works/myself/
-        exclude_featured: false
-    design:
-      view: card
-
-  - block: collection
-    content:
-      title: '实验室工作'
-      text: ''
-      filters:
-        folders:
-          - /content/works/research/
+          - works
         exclude_featured: false
     design:
       view: card

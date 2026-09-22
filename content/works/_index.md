@@ -1,18 +1,6 @@
 ---
-title: '工作总览'
+title: '工作记录'
 summary: ''
 date: 2026-09-01
-type: landing
-
-sections:
-  - block: collection
-    content:
-      title: '工作记录'
-      text: ''
-      filters:
-        folders:
-          - works
-        exclude_featured: false
-    design:
-      view: card
+type: post
 ---

@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: '李佳祺111'
+title: '李佳祺'
 summary: ''
 date: 2026-09-01
 type: landing

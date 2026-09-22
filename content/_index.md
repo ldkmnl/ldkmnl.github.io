@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: '李佳祺'
+title: '李佳祺111'
 summary: ''
 date: 2026-09-01
 type: landing
@@ -9,7 +9,7 @@ sections:
   - block: collection
     id: works #导航栏url跳转标签
     content:
-      title: '工作记录'
+      title: '近期工作'
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)

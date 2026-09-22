@@ -5,7 +5,7 @@
 
 main:
   - name: '工作记录'
-    url: '#works' #在当前页面跳转至id为works的地方
+    url: '' #在当前页面跳转至id为works的地方
     weight: 1
   - name: '实验室工作记录'
     parent: '工作记录'
@@ -15,6 +15,11 @@ main:
     parent: '工作记录'
     url: 'works/myself' #在当前页面跳转至id为works的地方
     weight: 2
+  - name: '工作记录总览'
+    parent: '工作记录'
+    url: 'works/all' #在当前页面跳转至id为works的地方
+    weight: 3
+
 
 
   - name: '增材制造'

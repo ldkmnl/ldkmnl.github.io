@@ -9,6 +9,7 @@ sections:
     content:
       title: '工作记录'
       text: ''
+      count: 0
       filters:
         folders:
           - works

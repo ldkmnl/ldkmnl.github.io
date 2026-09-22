@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: '工作记录'
+      title: ''
       text: ''
       count: 0
       filters:

@@ -11,7 +11,7 @@ sections:
       text: ''
       filters:
         folders:
-          - /content/works/myself
+          - /works/myself/
         exclude_featured: false
     design:
       view: card
@@ -22,7 +22,7 @@ sections:
       text: ''
       filters:
         folders:
-          - /content/works/research
+          - /content/works/research/
         exclude_featured: false
     design:
       view: card

@@ -1,5 +1,5 @@
 ---
-title: ''
+title: '近期工作'
 summary: ''
 date: 2026-09-01
 type: landing
@@ -11,7 +11,7 @@ sections:
       text: ''
       filters:
         folders:
-          - works/myself
+          - /content/works/myself
         exclude_featured: false
     design:
       view: card
@@ -22,14 +22,8 @@ sections:
       text: ''
       filters:
         folders:
-          - works/research
+          - /content/works/research
         exclude_featured: false
     design:
       view: card
 ---
-
-<!-- ---
-title: "近期工作"
-type: post
-show_authors: true
---- -->

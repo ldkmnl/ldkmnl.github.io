@@ -4,31 +4,54 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: '工作记录'
-    url: '' #在当前页面跳转至id为works的地方
+  - name: '工作记录' #导航栏
+    url: ''
+    weight: 1
+  - name: '工作总览' #二级导航栏，所有导航栏之间名字不得一样
+    parent: '工作记录'
+    url: 'works'
     weight: 1
   - name: '实验室工作记录'
     parent: '工作记录'
-    url: 'works/research' #在当前页面跳转至id为works的地方
-    weight: 1
+    url: 'works/实验室工作记录'
+    weight: 2
   - name: '私人工作记录'
     parent: '工作记录'
-    url: 'works/myself' #在当前页面跳转至id为works的地方
-    weight: 2
-  - name: '工作记录总览'
-    parent: '工作记录'
-    url: 'works/all' #在当前页面跳转至id为works的地方
+    url: 'works/私人工作记录'
     weight: 3
 
 
-
-  - name: '增材制造'
-    url: '3dprint'
+  - name: '3D打印机' #导航栏
+    url: ''
     weight: 2
+  - name: '3D打印机总览' #二级导航栏，所有导航栏之间名字不得一样
+    parent: '3D打印机'
+    url: '3dprinter'
+    weight: 1
+  - name: 'VORON'
+    parent: '3D打印机'
+    url: '3dprinter/voron'
+    weight: 2
+  - name: 'BINDER_JETTING'
+    parent: '3D打印机'
+    url: '3dprinter/binder_jetting'
+    weight: 3
 
 
-  - name: '摄影作品'
+  - name: '摄影作品' #导航栏
+    url: ''
+    weight: 3
+  - name: '摄影作品总览' #二级导航栏，所有导航栏之间名字不得一样
+    parent: '摄影作品'
     url: 'photos'
+    weight: 1
+  - name: '天空'
+    parent: '摄影作品'
+    url: 'photos/天空'
+    weight: 2
+  - name: '福建平潭'
+    parent: '摄影作品'
+    url: 'photos/福建平潭'
     weight: 3
 
 

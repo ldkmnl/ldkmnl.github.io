@@ -1,6 +1,4 @@
 ---
-title: '工作记录'
-summary: ''
-date: 2026-09-01
+title: '工作总览'
 type: ''
 ---

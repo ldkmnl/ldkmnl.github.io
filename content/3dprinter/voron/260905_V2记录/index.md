@@ -1,5 +1,5 @@
 ---
-title: 'voron2.4记录'
+title: '260905_V2记录'
 date: 2026-09-05
 authors: ['ljq']
 image:

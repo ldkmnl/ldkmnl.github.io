@@ -37,14 +37,14 @@ sections:
         padding: [40px, 0, 0, 0]
 
   - block: collection
-    id: 3dprint #导航栏url跳转标签
+    id: 3dprinter #导航栏url跳转标签
     content:
-      title: '增材制造'
+      title: '3D打印机'
       text: ''
       count: 4
       filters:
         folders:
-          - 3dprint
+          - 3dprinter
         exclude_featured: false
     design:
       view: card

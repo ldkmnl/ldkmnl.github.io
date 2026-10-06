@@ -1,5 +1,5 @@
 ---
-title: '26100_HI记录'
+title: '261003_HI记录'
 date: 2026-10-03
 authors: ['ljq']
 image:

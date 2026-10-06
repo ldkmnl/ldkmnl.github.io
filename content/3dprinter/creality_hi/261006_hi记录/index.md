@@ -1,6 +1,6 @@
 ---
 title: '261006_HI记录'
-date: 2026-10-036
+date: 2026-10-06
 authors: ['ljq']
 image:
     preview_only: true

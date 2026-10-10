@@ -13,7 +13,7 @@ main:
     weight: 1
   - name: '实验室工作记录'
     parent: '工作记录'
-    url: 'works/实验室工作记录'
+    url: 'works/实验室工作记录' #填写文件夹路径
     weight: 2
   - name: '私人工作记录'
     parent: '工作记录'
@@ -53,9 +53,9 @@ main:
     parent: '摄影作品'
     url: 'photos/天空'
     weight: 2
-  - name: '福建平潭'
+  - name: '旅游'
     parent: '摄影作品'
-    url: 'photos/福建平潭'
+    url: 'photos/旅游'
     weight: 3
 
 
